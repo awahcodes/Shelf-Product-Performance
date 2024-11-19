@@ -1,41 +1,77 @@
-Key Measures for Space Optimization
-1.	Sales per Square Meter (or Square Foot):
-Formula: Sales per Square Meter=Total Sales/Space Allocated
-o	Purpose: Measures the revenue generated for each square meter of space. Higher values indicate better utilization.
+Raw data was prepared for analysis using Power query. Formatting was done, data types corrected and conditional columns were created.
+Revenue, Total cost, Profit, Sales per Sqm, Profitability per sqm, Conversion ratio, Traffic density were columns created.
 
-2.	Footfall Conversion Rate:
-Formula: Conversion Rate= (Sales Transactions/Footfall)×100
-Purpose: Shows the percentage of visitors making purchases, helping to identify underperforming or overperforming spaces.
+The clean data was then analyzed using Looker studio. Conversion ratio was then added in Looker studio as a field.
+Summary of Insights:
+1. Financial Performance
+•	Total Revenue: $95.28M
+•	Total Cost: $73.16M
+•	Profit: $22.11M
+Insights:
+•	The profit margin is approximately 23.2%, indicating healthy financial performance but with room for cost optimization to increase profitability.
+•	Focus on high-margin product categories to improve profit margins.
 
-3.	Profitability per Square Meter:
-Formula: Profitability per Square Meter=Profit/Space Allocated 
-Purpose: Focuses on profit rather than just sales, factoring in costs like inventory and space rent.
 
-4.	Traffic Density:
-Formula: Traffic Density=Footfall/Space Allocated
-Purpose: Helps determine how effectively the space attracts customers, particularly for promotional displays or high-traffic zones.
-Additional Metrics
-a.	Category Performance by Space:
-o	Analyze which product categories generate the highest revenue per unit of space. This informs decisions on whether to expand or reduce their allocated space.
-b.	Dwell Time per Category:
-o	Measure the time customers spend in a category’s section using footfall sensors or observation. Longer dwell times often correlate with better engagement and sales.
-c.	Stock Turnover Rate:
-o	Indicates how frequently products are sold and replaced within a space. Higher turnover suggests more efficient space use.
-d.	Space Utilization Ratio:
-Formula: Space Utilization Ratio=(Space Used for Display/Total Allocated Space)×100
-Purpose: Ensures space isn’t wasted, such as by over-allocating to low-performing categories.
+2. Space Utilization
+•	Total Space Allocated: 518.1K sqm
+•	Total Sales per Sqm: 85.9K
+•	Average Sales per Sqm: 17.2
+•	Total Profit per Sqm: 362.9K
+Insights:
+•	Low Average Sales per Sqm: While total sales per sqm are substantial, the average suggests inefficiencies in space allocation.
+•	Identify underperforming product categories and consider reallocating or reducing their shelf space.
 
-5.	Promotion Impact:
-•	Measure the lift in sales or footfall during promotional events to evaluate if the flexible space (like pallets or plinths) is effective in driving sales.
 
-Analyzing Profitability:
-•	Profit Margin per Category:
-o	To further evaluate profitability, you can calculate the profit margin for each category.
-o	Formula: Profit Margin=(Profit/Sales)×100
-•	Profitability per Square Meter:
-o	Combine the Profit and Space Allocated to assess the profitability of space allocation.
-o	Formula: Profit per Square Meter=Profit/Space Allocated 
-This enhanced dataset will allow you to evaluate how well the space in each store is utilized to generate profit, as well as how the price and cost structures impact overall profitability.
+3. Customer Engagement
+•	Total Footfall: 13.6M
+•	Total Traffic Density: 219.4K
+•	Conversion Ratio: 38.9%
+Insights:
+•	A conversion ratio below 40% may indicate that marketing or product placement strategies could be improved to engage footfall more effectively.
+•	Recommendations:
+o	Introduce promotional campaigns near high-traffic areas.
+Optimize product placement for top-performing items.
+
+
+4. Sales Trends Over Time
+•	Sales per sqm increased steadily month-over-month from May to July, peaking highest in August then with a drop in September before a gradual increment for ROY
+•	Insights:
+o	Seasonal spikes suggest opportunities to maximize sales by preparing targeted campaigns during high-demand months.
+o	Leverage historical trends to forecast inventory needs for peak seasons.
+
+
+5. Product Performance
+Top Performing Categories:
+•	Furniture & Wares, Electronics & Home Appliances, and Grains & raw food have the highest profitability per sqm.
+Underperforming Categories:
+•	Vegetables & fruits and Clothes & Shoes show lower profitability metrics.
+Insights:
+•	Reallocate more shelf space to top-performing categories to maximize revenue.
+•	Consider bundling or promotions for underperforming categories to boost sales.
+
+
+6. Profitability Analysis
+•	High-Profit Categories:
+o	Furniture & Wares and Electronics & Home Appliances are leaders in profit per sqm.
+•	Recommendations:
+o	Focus on expanding these categories while maintaining inventory costs.
+o	Explore partnerships or exclusive deals to sustain profitability in these segments.
+
+
+Recommendations for Business Decisions
+1.	Optimize Space Allocation:
+o	Reallocate space from low-performing categories to high-performing ones.
+o	Regularly evaluate sales per sqm to adjust space dynamically.
+2.	Enhance Customer Conversion:
+o	Increase visibility of high-converting products through better signage and display.
+o	Launch targeted promotions in high-traffic but low-conversion areas.
+3.	Seasonal Planning:
+o	Prioritize inventory buildup and marketing campaigns in Q4 for holiday sales.
+o	Use Q1 for clearance sales of low-performing items.
+4.	Profitability Focus:
+o	Renegotiate supplier contracts to reduce costs for high-revenue but low-margin products.
+o	Increase marketing for high-margin products to drive volume sales.
+
 
 
 
