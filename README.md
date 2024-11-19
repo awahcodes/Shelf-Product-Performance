@@ -1,5 +1,7 @@
 Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
 
+Sales Data for 15 products across 5 retail stores for a period of 1year was analysed to understand each product performance in each store.
+
 Raw data was prepared for analysis using Power query. Formatting was done, data types corrected and conditional columns were created.
 Revenue, Total cost, Profit, Sales per Sqm, Profitability per sqm, Conversion ratio, Traffic density were columns created.
 
