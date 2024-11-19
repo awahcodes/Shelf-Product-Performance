@@ -1,3 +1,5 @@
+Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
+
 Raw data was prepared for analysis using Power query. Formatting was done, data types corrected and conditional columns were created.
 Revenue, Total cost, Profit, Sales per Sqm, Profitability per sqm, Conversion ratio, Traffic density were columns created.
 
