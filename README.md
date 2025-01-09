@@ -1,4 +1,8 @@
-Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
+# Shelf Product Performance
+
+## Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
+
+## Project Overview:
 
 Sales Data for 15 products across 5 retail stores for a period of 1year was analysed to understand each product performance in each store.
 
@@ -6,32 +10,37 @@ Raw data was prepared for analysis using Power query. Formatting was done, data 
 Revenue, Total cost, Profit, Sales per Sqm, Profitability per sqm, Conversion ratio, Traffic density were columns created.
 
 The clean data was then analyzed using Looker studio. Conversion ratio was then added in Looker studio as a field.
-Summary of Insights:
-1. Financial Performance
-•	Total Revenue: $95.28M
-•	Total Cost: $73.16M
-•	Profit: $22.11M
-Insights:
-•	The profit margin is approximately 23.2%, indicating healthy financial performance but with room for cost optimization to increase profitability.
-•	Focus on high-margin product categories to improve profit margins.
+
+## Summary of Insights:
+
+### 1. Financial Performance
+- Total Revenue: $95.28M
+- Total Cost: $73.16M
+- Profit: $22.11M
+
+**Insights:**
+- The profit margin is approximately 23.2%, indicating healthy financial performance but with room for cost optimization to increase profitability.
+- Focus on high-margin product categories to improve profit margins.
 
 
-2. Space Utilization
-•	Total Space Allocated: 518.1K sqm
-•	Total Sales per Sqm: 85.9K
-•	Average Sales per Sqm: 17.2
-•	Total Profit per Sqm: 362.9K
-Insights:
+### 2. Space Utilization
+- Total Space Allocated: 518.1K sqm
+- Total Sales per Sqm: 85.9K
+- Average Sales per Sqm: 17.2
+- Total Profit per Sqm: 362.9K
+  
+**Insights:**
 •	Low Average Sales per Sqm: While total sales per sqm are substantial, the average suggests inefficiencies in space allocation.
 •	Identify underperforming product categories and consider reallocating or reducing their shelf space.
 
 
-3. Customer Engagement
-•	Total Footfall: 13.6M
-•	Total Traffic Density: 219.4K
-•	Conversion Ratio: 38.9%
-Insights:
-•	A conversion ratio below 40% may indicate that marketing or product placement strategies could be improved to engage footfall more effectively.
+### 3. Customer Engagement
+- Total Footfall: 13.6M
+- Total Traffic Density: 219.4K
+- Conversion Ratio: 38.9%
+
+**Insights:**
+- A conversion ratio below 40% may indicate that marketing or product placement strategies could be improved to engage footfall more effectively.
 •	Recommendations:
 o	Introduce promotional campaigns near high-traffic areas.
 Optimize product placement for top-performing items.
