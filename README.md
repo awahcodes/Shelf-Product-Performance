@@ -1,6 +1,6 @@
 # Shelf Product Performance
 
-## Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
+#### Report view Link: https://lookerstudio.google.com/reporting/9c75ad46-079e-41a9-8eca-91cafe30cbf1
 
 ## Project Overview:
 
@@ -11,7 +11,10 @@ Revenue, Total cost, Profit, Sales per Sqm, Profitability per sqm, Conversion ra
 
 The clean data was then analyzed using Looker studio. Conversion ratio was then added in Looker studio as a field.
 
+![Dashboard photo1](https://github.com/user-attachments/assets/ea28bb5e-b9b5-4cbd-94c8-d0bcde5d394f)
+
 ## Summary of Insights:
+
 
 ### 1. Financial Performance
 - Total Revenue: $95.28M
@@ -30,8 +33,8 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Total Profit per Sqm: 362.9K
   
 **Insights:**
-•	Low Average Sales per Sqm: While total sales per sqm are substantial, the average suggests inefficiencies in space allocation.
-•	Identify underperforming product categories and consider reallocating or reducing their shelf space.
+- Low Average Sales per Sqm: While total sales per sqm are substantial, the average suggests inefficiencies in space allocation.
+- Identify underperforming product categories and consider reallocating or reducing their shelf space.
 
 
 ### 3. Customer Engagement
@@ -41,49 +44,70 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 
 **Insights:**
 - A conversion ratio below 40% may indicate that marketing or product placement strategies could be improved to engage footfall more effectively.
-•	Recommendations:
-o	Introduce promotional campaigns near high-traffic areas.
-Optimize product placement for top-performing items.
+
+**Recommendations:**
+- Introduce promotional campaigns near high-traffic areas.
+- Optimize product placement for top-performing items.
 
 
-4. Sales Trends Over Time
-•	Sales per sqm increased steadily month-over-month from May to July, peaking highest in August then with a drop in September before a gradual increment for ROY
-•	Insights:
-o	Seasonal spikes suggest opportunities to maximize sales by preparing targeted campaigns during high-demand months.
-o	Leverage historical trends to forecast inventory needs for peak seasons.
+### 4. Sales Trends Over Time
+ - Sales per sqm increased steadily month-over-month from May to July, peaking highest in August then with a drop in September before a gradual increment for ROY
+   
+**Insights:**
+- Seasonal spikes suggest opportunities to maximize sales by preparing targeted campaigns during high-demand months.
+- Leverage historical trends to forecast inventory needs for peak seasons.
 
 
-5. Product Performance
-Top Performing Categories:
-•	Furniture & Wares, Electronics & Home Appliances, and Grains & raw food have the highest profitability per sqm.
-Underperforming Categories:
-•	Vegetables & fruits and Clothes & Shoes show lower profitability metrics.
-Insights:
-•	Reallocate more shelf space to top-performing categories to maximize revenue.
-•	Consider bundling or promotions for underperforming categories to boost sales.
+### 5. Product Performance
+
+![Dashboard view 2](https://github.com/user-attachments/assets/11517b5a-c068-48a1-bfe2-dc432fb4bac2)
+
+**Top Performing Categories:**
+
+- Furniture & Wares, Electronics & Home Appliances, and Grains & raw food have the highest profitability per sqm.
+  
+**Underperforming Categories:**
+- Vegetables & fruits and Clothes & Shoes show lower profitability metrics.
+
+**Insights:**
+
+- Reallocate more shelf space to top-performing categories to maximize revenue.
+- Consider bundling or promotions for underperforming categories to boost sales.
 
 
-6. Profitability Analysis
-•	High-Profit Categories:
-o	Furniture & Wares and Electronics & Home Appliances are leaders in profit per sqm.
-•	Recommendations:
-o	Focus on expanding these categories while maintaining inventory costs.
-o	Explore partnerships or exclusive deals to sustain profitability in these segments.
+### 6. Profitability Analysis
+
+**High-Profit Categories:**
+
+- Furniture & Wares and Electronics & Home Appliances are leaders in profit per sqm.
+  
+**Recommendations:**
+
+- Focus on expanding these categories while maintaining inventory costs.
+- Explore partnerships or exclusive deals to sustain profitability in these segments.
 
 
-Recommendations for Business Decisions
-1.	Optimize Space Allocation:
-o	Reallocate space from low-performing categories to high-performing ones.
-o	Regularly evaluate sales per sqm to adjust space dynamically.
-2.	Enhance Customer Conversion:
-o	Increase visibility of high-converting products through better signage and display.
-o	Launch targeted promotions in high-traffic but low-conversion areas.
-3.	Seasonal Planning:
-o	Prioritize inventory buildup and marketing campaigns in Q4 for holiday sales.
-o	Use Q1 for clearance sales of low-performing items.
-4.	Profitability Focus:
-o	Renegotiate supplier contracts to reduce costs for high-revenue but low-margin products.
-o	Increase marketing for high-margin products to drive volume sales.
+### Recommendations for Business Decisions
+
+#### A.	Optimize Space Allocation:
+
+  - Reallocate space from low-performing categories to high-performing ones.
+  - Regularly evaluate sales per sqm to adjust space dynamically.
+    
+#### B.	Enhance Customer Conversion:
+
+  - Increase visibility of high-converting products through better signage and display.
+  - Launch targeted promotions in high-traffic but low-conversion areas.
+    
+#### C.	Seasonal Planning:
+
+  - Prioritize inventory buildup and marketing campaigns in Q4 for holiday sales.
+  - Use Q1 for clearance sales of low-performing items.
+    
+#### D.	Profitability Focus:
+
+  - Renegotiate supplier contracts to reduce costs for high-revenue but low-margin products.
+  - Increase marketing for high-margin products to drive volume sales.
 
 
 
