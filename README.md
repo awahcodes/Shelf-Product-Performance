@@ -16,7 +16,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 ## Summary of Insights:
 
 
-### 1. Financial Performance
+### 1. Financial Performance:
 - Total Revenue: $95.28M
 - Total Cost: $73.16M
 - Profit: $22.11M
@@ -26,7 +26,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Focus on high-margin product categories to improve profit margins.
 
 
-### 2. Space Utilization
+### 2. Space Utilization:
 - Total Space Allocated: 518.1K sqm
 - Total Sales per Sqm: 85.9K
 - Average Sales per Sqm: 17.2
@@ -37,7 +37,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Identify underperforming product categories and consider reallocating or reducing their shelf space.
 
 
-### 3. Customer Engagement
+### 3. Customer Engagement:
 - Total Footfall: 13.6M
 - Total Traffic Density: 219.4K
 - Conversion Ratio: 38.9%
@@ -50,7 +50,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Optimize product placement for top-performing items.
 
 
-### 4. Sales Trends Over Time
+### 4. Sales Trends Over Time:
  - Sales per sqm increased steadily month-over-month from May to July, peaking highest in August then with a drop in September before a gradual increment for ROY
    
 **Insights:**
@@ -58,7 +58,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Leverage historical trends to forecast inventory needs for peak seasons.
 
 
-### 5. Product Performance
+### 5. Product Performance:
 
 ![Dashboard view 2](https://github.com/user-attachments/assets/11517b5a-c068-48a1-bfe2-dc432fb4bac2)
 
@@ -75,7 +75,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Consider bundling or promotions for underperforming categories to boost sales.
 
 
-### 6. Profitability Analysis
+### 6. Profitability Analysis:
 
 **High-Profit Categories:**
 
@@ -87,7 +87,7 @@ The clean data was then analyzed using Looker studio. Conversion ratio was then 
 - Explore partnerships or exclusive deals to sustain profitability in these segments.
 
 
-### Recommendations for Business Decisions
+### Recommendations for Business Decisions:
 
 #### A.	Optimize Space Allocation:
 
